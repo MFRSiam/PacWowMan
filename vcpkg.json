@@ -1,0 +1,5 @@
+{
+  "name" : "sfmlproj",
+  "version" : "1.0",
+  "dependencies" : ["sfml", "fmt"]
+}
